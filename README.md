@@ -1,1 +1,1 @@
-## simple tool to delete mongo records according key:value pair.
+## simple tool to find/del mongo records according key:value pair.
